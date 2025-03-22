@@ -1,0 +1,39 @@
+body
+{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+h1{
+    color: red;
+}
+
+button
+{
+    height: 20px;
+    width: 60px;
+    background-color: red;
+    color: yellow;
+}
+
+button:hover
+{
+    cursor: pointer;
+    background-color: yellow;
+    color: red;
+}
+
+.dark
+{
+     background-color: black;
+     color: black;
+}
+
+.bright
+{
+    background-color:white;
+    color: black;
+
+}
